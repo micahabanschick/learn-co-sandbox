@@ -8,6 +8,7 @@ class AbsoluteBull
   end 
   
   def intelligible 
+    babble = rant.split(", ").sort{|a, b| a<=>b}.join(", ")
   end 
   
 end
