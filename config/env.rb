@@ -1,2 +1,3 @@
-# require "pry"
-require_relative "../01_fun.rb"
+require "pry"
+require_relative "../lib/fun.rb"
+

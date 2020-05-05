@@ -2,3 +2,7 @@
 
 require_relative "../config/env.rb"
 
+
+crisis = AbsoluteBull.new
+puts crisis.rant
+# puts crisis.intelligible
