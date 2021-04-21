@@ -2,6 +2,7 @@
 
 require_relative "../config/env.rb"
 
+<<<<<<< HEAD
 
 
 crisis = AbsoluteBull.new
@@ -9,3 +10,8 @@ crisis = AbsoluteBull.new
 puts "#{crisis.rant}\n\n"
 puts crisis.intelligible
 
+=======
+crisis = AbsoluteBull.new
+puts crisis.rant
+puts crisis.intelligible
+>>>>>>> 49f099a80cf76c7e3f075df53054b7c29f282318
